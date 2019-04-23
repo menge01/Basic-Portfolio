@@ -7,6 +7,7 @@ This is part two of the first assignment where we were required to build a profe
 Getting Started
 Click on the following link to preview the completed assignment.
 
+this the link for my portofolio "https://menge01.github.io/Basic-Portfolio/"
 
 Built With
 HTML5
