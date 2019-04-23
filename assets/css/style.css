@@ -3,7 +3,11 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: #666666; 
+    background: #7474BF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
 
   
     
@@ -108,7 +112,7 @@ body {
     color: #ffffff;
     color: #cccccc;
     text-align: center;
-    background: #666666;
+    background: #a5e907;
     border-top: 8px solid #4aaaa5;
     height: 50px;
   }
@@ -133,7 +137,10 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #ffffff;
+    background: #414d0b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #727a17, #414d0b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #727a17, #414d0b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
     border: 1px solid #dddddd;
   }
   
